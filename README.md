@@ -15,7 +15,9 @@
 ### LLM Infrastructure
 
 - 🔧 **[ToolRegistry](https://github.com/Oaklight/ToolRegistry)** - Protocol-agnostic tool management for function-calling LLMs
+- 🖥️ **[toolregistry-server](https://github.com/Oaklight/toolregistry-server)** - Server library for ToolRegistry — OpenAPI and MCP protocol adapters
 - 🌐 **[ToolRegistry-Hub](https://github.com/Oaklight/toolregistry-hub)** - Curated collection of tools for ToolRegistry
+- <img src="https://emojis.slackmojis.com/emojis/images/1745351110/120120/rosetta-stone.webp?1745351110" alt="rosetta-stone" height="20"> **[llm-rosetta](https://github.com/Oaklight/llm-rosetta)** - Translate between LLM provider APIs via a unified intermediate representation
 - 🔌 **[argo-proxy](https://github.com/Oaklight/argo-proxy)** - OpenAI-compatible proxy server for Argo API
 - 🔮 **[asksage-proxy](https://github.com/Oaklight/asksage-proxy)** - OpenAI-compatible proxy for AskSage API
 
@@ -27,6 +29,7 @@
 
 ### Developer Tools
 
+- 🔗 **[nps-ctl](https://github.com/Oaklight/nps-ctl)** - Python CLI & library for managing NPS edge servers — clients, tunnels, hosts, and cluster sync
 - 🎤 **[asr2clip](https://github.com/Oaklight/asr2clip)** - CLI tool: speech transcribing to clipboard or file
 - 💰 **[onehub_prices](https://github.com/Oaklight/onehub_prices)** - AI API pricing maintenance & tracking
 - 🔐 **[autossh-tunnel-dockerized](https://github.com/Oaklight/autossh-tunnel-dockerized)** - Dockerized SSH tunnel manager with YAML config
@@ -34,9 +37,7 @@
 - 📡 **[openwrt-dfs-checker](https://github.com/Oaklight/openwrt-dfs-checker)** - Automatic DFS channel management for OpenWrt
 - 🔍 **[vectorsearch](https://github.com/Oaklight/vectorsearch)** - Dockerized vector DB (pgvector + pgvectorscale)
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/Oaklight)
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oaklight&show_icons=true&theme=graywhite&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oaklight&layout=compact&theme=graywhite&hide_border=true)
