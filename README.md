@@ -18,6 +18,7 @@
 - 🖥️ **[toolregistry-server](https://github.com/Oaklight/toolregistry-server)** - Server library for ToolRegistry — OpenAPI and MCP protocol adapters
 - 🌐 **[ToolRegistry-Hub](https://github.com/Oaklight/toolregistry-hub)** - Curated collection of tools for ToolRegistry
 - <img src="https://emojis.slackmojis.com/emojis/images/1745351110/120120/rosetta-stone.webp?1745351110" alt="rosetta-stone" height="20"> **[llm-rosetta](https://github.com/Oaklight/llm-rosetta)** - Translate between LLM provider APIs via a unified intermediate representation
+- 💬 **[WeiLink](https://github.com/Oaklight/weilink)** - Lightweight Python SDK for WeChat iLink Bot protocol
 - 🔌 **[argo-proxy](https://github.com/Oaklight/argo-proxy)** - OpenAI-compatible proxy server for Argo API
 - 🔮 **[asksage-proxy](https://github.com/Oaklight/asksage-proxy)** - OpenAI-compatible proxy for AskSage API
 
