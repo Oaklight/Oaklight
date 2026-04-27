@@ -36,7 +36,7 @@
 - 🔐 **[autossh-tunnel-dockerized](https://github.com/Oaklight/autossh-tunnel-dockerized)** - Dockerized SSH tunnel manager with YAML config
 - 📦 **[composerize-minimal](https://github.com/Oaklight/composerize-minimal)** - Self-hosted composerize suite (~7MB)
 - 📡 **[openwrt-dfs-checker](https://github.com/Oaklight/openwrt-dfs-checker)** - Automatic DFS channel management for OpenWrt
-- 🔍 **[vectorsearch](https://github.com/Oaklight/vectorsearch)** - Dockerized vector DB (pgvector + pgvectorscale)
+
 
 ## GitHub Stats
 
