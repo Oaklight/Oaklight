@@ -8,7 +8,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-> I am a PhD candidate in Computer Science at the University of Chicago, advised by Rick Stevens. My research focuses on reliable and interoperable LLM systems, spanning tool orchestration, cross-provider API abstractions, and empirical evaluation of agentic and scientific AI. I build systems such as ToolRegistry and LLM-Rosetta to improve how language models use tools and operate across heterogeneous ecosystems, and I study constrained software design through zerodep to understand how deployability, correctness, and performance interact in practice.
+> I am a PhD candidate in Computer Science at the University of Chicago, advised by Rick Stevens. My research focuses on reliable and interoperable LLM systems, spanning tool orchestration, unified access across heterogeneous LLM API standards, and empirical evaluation of agentic and scientific AI. I build systems such as ToolRegistry and LLM-Rosetta to improve how language models use tools and operate across heterogeneous ecosystems, and I study constrained software design through zerodep to understand how deployability, correctness, and performance interact in practice.
 
 ## Current Projects
 
