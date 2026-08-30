@@ -18,6 +18,7 @@
 - 🖥️ **[toolregistry-server](https://github.com/Oaklight/toolregistry-server)** - Server library for ToolRegistry — OpenAPI and MCP protocol adapters
 - 🌐 **[ToolRegistry-Hub](https://github.com/Oaklight/toolregistry-hub)** - Curated collection of tools for ToolRegistry
 - <img src="https://emojis.slackmojis.com/emojis/images/1745351110/120120/rosetta-stone.webp?1745351110" alt="rosetta-stone" height="20"> **[llm-rosetta](https://github.com/Oaklight/llm-rosetta)** - Translate between LLM provider APIs via a unified intermediate representation
+  - ✅ **[llm-comply](https://github.com/Oaklight/llm-comply)** - Multi-format LLM API compliance testing CLI
 - 🤖 **[agentabi](https://github.com/Oaklight/agentabi)** - Unified async Python API for driving coding agent CLIs — Claude Code, Codex, Gemini CLI, OpenCode
 - 💬 **[WeiLink](https://github.com/Oaklight/weilink)** - Lightweight Python SDK for WeChat iLink Bot protocol
 - 🔌 **[argo-proxy](https://github.com/Oaklight/argo-proxy)** - OpenAI-compatible proxy server for Argo API
@@ -31,6 +32,7 @@
 
 ### Developer Tools
 
+- 👻 **[VeilRender](https://github.com/Oaklight/veilrender)** - Headless browser rendering API with stealth capabilities — self-hostable via Docker or pip
 - 🍃 **[tinyleaf](https://github.com/Oaklight/tinyleaf)** - Tiny, local-first, browser-based TeX editor with PDF preview and Git tools
 - 🧩 **[zerodep](https://github.com/Oaklight/zerodep)** - Zero-dependency Python utilities and an empirical study of stdlib-only library design
 - 🔗 **[nps-ctl](https://github.com/Oaklight/nps-ctl)** - Python CLI & library for managing NPS edge servers — clients, tunnels, hosts, and cluster sync
