@@ -19,6 +19,7 @@
 - 🌐 **[ToolRegistry-Hub](https://github.com/Oaklight/toolregistry-hub)** - Curated collection of tools for ToolRegistry
 - <img src="https://emojis.slackmojis.com/emojis/images/1745351110/120120/rosetta-stone.webp?1745351110" alt="rosetta-stone" height="20"> **[llm-rosetta](https://github.com/Oaklight/llm-rosetta)** - Translate between LLM provider APIs via a unified intermediate representation
   - ✅ **[llm-comply](https://github.com/Oaklight/llm-comply)** - Multi-format LLM API compliance testing CLI
+- 👣 **[vestigio](https://github.com/Oaklight/vestigio)** - Thin OTEL wrapper for agent/LLM observability — OpenInference + GenAI semantic conventions
 - 🤖 **[agentabi](https://github.com/Oaklight/agentabi)** - Unified async Python API for driving coding agent CLIs — Claude Code, Codex, Gemini CLI, OpenCode
 - 💬 **[WeiLink](https://github.com/Oaklight/weilink)** - Lightweight Python SDK for WeChat iLink Bot protocol
 - 🔌 **[argo-proxy](https://github.com/Oaklight/argo-proxy)** - OpenAI-compatible proxy server for Argo API
